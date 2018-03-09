@@ -1,6 +1,6 @@
 # Freelance Hackademy
 
-Make yourself a Ruby/Rails freelancer from scratch.
+How to become a Ruby/Rails freelancer from scratch.
 
 Read the [introduction](/intro.md) or start working
 on your freelancing skills by completing the [step 1](/steps/1.md).
