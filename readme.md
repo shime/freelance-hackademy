@@ -1,5 +1,7 @@
 # Freelance Hackademy
 
+![/logo.svg](/logo.svg)
+
 Free initiative for teaching people how to become Ruby/Rails freelancers from scratch.
 
 Read the [introduction](/intro.md) or start working
@@ -13,6 +15,10 @@ on your freelancing skills by completing the [step 1](/steps/1.md).
 3. [Step 3 - Get to know Ruby](/steps/3.md)
 4. [Step 4 - Install Ruby locally](/steps/4.md)
 5. [Step 5 - Finish Rails tutorial](/steps/5.md)
+
+## Attributions
+
+Logo is a combination of Mortar Board by Rutmer Zijlstra and wifi by Vicons Design from the Noun Project.
 
 ## License
 
