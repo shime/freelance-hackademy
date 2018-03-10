@@ -15,6 +15,7 @@ on your freelancing skills by completing the [step 1](/steps/1.md).
 3. [Step 3 - Get to know Ruby](/steps/3.md)
 4. [Step 4 - Install Ruby locally](/steps/4.md)
 5. [Step 5 - Finish Rails tutorial](/steps/5.md)
+6. Coming soon
 
 ## Attributions
 
